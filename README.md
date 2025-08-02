@@ -78,7 +78,6 @@ The **Dynamic OTP-Driven Secure Access System** is a secure, GSM-based access co
 ### 💻 Software
 - KEIL uVision (Code Development)  
 - Flash Magic (Hex Uploading)  
-- Proteus (Simulation & Testing)
 
 ## 📡 AT Commands Reference (Sample)
 
