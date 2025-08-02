@@ -44,10 +44,13 @@ The **Dynamic OTP-Driven Secure Access System** is a secure, GSM-based access co
 | **Languages**      | Embedded C                                  |
 | **IDE/Tools**      | KEIL uVision, Flash Magic, Proteus          |
 
+![1000234231](https://github.com/user-attachments/assets/130b9207-12ce-4c0e-ba0d-55c9fb4c5be9)
 
 ![WhatsApp Image 2025-07-29 at 9 13 23 PM](https://github.com/user-attachments/assets/c718d9da-2f0c-4bb0-9139-d27f9520f34d)
 
 ![WhatsApp Image 2025-07-29 at 9 13 23 PM (1)](https://github.com/user-attachments/assets/b8e9dd1c-4f4e-4b8c-8c42-07624888d929)
+
+https://drive.google.com/file/d/1NQDXxuZGUcGS5c1N5PHF21R_2TVmXoii/view
 
 
 
