@@ -50,10 +50,8 @@ The **Dynamic OTP-Driven Secure Access System** is a secure, GSM-based access co
 
 ![WhatsApp Image 2025-07-29 at 9 13 23 PM (1)](https://github.com/user-attachments/assets/b8e9dd1c-4f4e-4b8c-8c42-07624888d929)
 
+## Video:
 https://drive.google.com/file/d/1NQDXxuZGUcGS5c1N5PHF21R_2TVmXoii/view
-
-
-
 
 ## 🚀 How It Works
 
